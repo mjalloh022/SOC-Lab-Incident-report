@@ -10,11 +10,16 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
-
+- <b>Splunk</b>
+- <b>Linux VM</b>
+- <b>Windows sandbox vm</b>
+- <b>ANY.RUN(Sand Box Tool)</b>
+- <b>Virus Total)</b>
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 7 sandbox VM</b>
+- <b>Linux </b> 
+
 
 <h2>Program walk-through:</h2>
 
