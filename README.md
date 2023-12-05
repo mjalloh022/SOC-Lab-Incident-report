@@ -15,6 +15,7 @@ This project consists of a virtual lab SOC event simulation that I created. For 
 - <b>Windows sandbox vm</b>
 - <b>ANY.RUN(Sand Box Tool)</b>
 - <b>Virus Total)</b>
+- <b>Cyber Chef)</b>
 <h2>Environments Used </h2>
 
 - <b>Windows 7 sandbox VM</b>
