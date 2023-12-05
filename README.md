@@ -2,8 +2,8 @@
 
  
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+<h2>Introduction/Description</h2>
+Project consists of a virtual lab SOC event simulation that I created. For this lab I was presented with log data that would purposly triger an alert on the SIEM tool(Splunk) that was running on my network. With the snapshots of data and tools that i used to investigate this alert. I will walk you through my thought process of how I triaged this whole event. 
 <br />
 
 
@@ -18,7 +18,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Environments Used </h2>
 
 - <b>Windows 7 sandbox VM</b>
-- <b>Linux </b> 
+- <b>Linux VM </b> 
 
 
 <h2>Program walk-through:</h2>
