@@ -3,7 +3,7 @@
  
 
 <h2>Introduction/Description</h2>
-Project consists of a virtual lab SOC event simulation that I created. For this lab I was presented with log data that would purposly triger an alert on the SIEM tool(Splunk) that was running on my network. With the snapshots of data and tools that i used to investigate this alert. I will walk you through my thought process of how I triaged this whole event. 
+This project consists of a virtual lab SOC event simulation that I created. For this lab I was presented with log data that would purposly triger an alert on the SIEM tool(Splunk) that was running on my network. With the snapshots of data and tools that i used to investigate this alert. I will walk you through my thought process of how I triaged this whole event. 
 <br />
 
 
