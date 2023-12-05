@@ -41,7 +41,7 @@ Virus Total report:  <br/>
 <img src="https://i.imgur.com/TalzEiR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-: Spunk Incident Report <br/>
+: Incident Report <br/>
 <img src="https://imgur.com/3D2toHo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
