@@ -42,7 +42,7 @@ Virus Total report:  <br/>
 <br />
 <br />
 : Incident Report <br/>
-<img src="https://imgur.com/3D2toHo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5KM6ill.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sand box results :  <br/>
