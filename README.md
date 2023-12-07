@@ -56,7 +56,8 @@ As we continue with this investigation we can already see that this is suspiciou
 ## Sand box results :  <br/>
 <img src="https://imgur.com/xHssB4C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> After completion of my investigation report on the incident. I decided to do some analysis on the Malicous domain. I used a sandbox tool called ANY.RUN. What I learned about this malicous domain is that when you go to this site there are conections to a lot of diffrent ip address that are outside of the united states. With futher investigation with virus total I found out that some of the IP addresses with these connections have been marked as malicous. I was also able to find out with futher investigation that some of the IP address that are not marked as malicous have connections and communcations  with malicous files. Below is one of the malicous files an IP address that resonates from Germany has a connection with. This IP address was also making connections to the same Domain that was investigated in my report. This is one of the few Ip Address that were either marked as malicous or have been reported on virus total as an IP address that has connections and communications with malicous files.
-<br />
+<br /> 
+
 
 ## Sand Box threat Results: 
 <img src="https://imgur.com/LxViLQq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
